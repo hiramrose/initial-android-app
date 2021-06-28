@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Aero Ibero</string>
+    <string name="logo_de_la_ibero">Logo de la ibero</string>
+    <string name="texto">Aceptar términos</string>
+    <string name="texto_bienvenida">Hola, usuario, ¡bienvenido!</string>
+    <string name="imagen_de_vuelo">Imagen de vuelo</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Accede</string>
+    <string name="nueva_actividad_2">Hola, esta es una nueva actividad.</string>
+    <string name="imagen_droid">imagen droide</string>
+    <string name="volver">Salir</string>
+    <string name="imagena2">imagena2</string>
+    <string name="aceptar_terminos">Acepto</string>
+    <string name="texto_terminos">Debes aceptar los términos</string>
+    <string name="textoPrube">TextView</string>
+</resources>
